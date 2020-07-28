@@ -1,0 +1,165 @@
+{
+  "categorias": [
+    {
+      "titulo": "Jogos",
+      "link": "https://www.youtube.com/results?search_query=alanzoka&pbjreload=101",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Jogos de todos os tipos",
+        "url": "https://www.youtube.com/results?search_query=alanzoka&pbjreload=101"
+      },
+      "videos": [
+        {
+          "titulo": "Rap do Levi (Attack on Titan) | Tauz RapTributo 56",
+          "url": "https://youtu.be/bLFvmQ-pkJY"
+        },
+        
+        {
+          "titulo": "O ganso mais chato do mundo",
+          "url": "https://www.youtube.com/watch?v=tRKyI5CJyA8"
+        },
+        {
+          "titulo": "Cs GO",
+          "url": "https://www.youtube.com/watch?v=rOpariPFAeM"
+        },
+      
+        {
+          "titulo": "Melhores jogos",
+          "url": "https://www.youtube.com/watch?v=yPlH0aHq0PI"
+        },
+        {
+          "titulo": "Melhores jogos mobiles",
+          "url": "https://www.youtube.com/watch?v=MofKzyZbkR4"
+        },
+        {
+          "titulo": "Jogos",
+          "url": "https://www.youtube.com/watch?v=M-S1wT9UZSc"
+        },
+        {
+          "titulo": "Assasins",
+          "url": "https://www.youtube.com/watch?v=nCTLEMCTkPA"
+        }        
+      ]
+    },
+
+    
+    
+    {
+      "titulo": "Comidas",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Melhores comidas",
+        "url": "https://www.youtube.com/watch?v=nCTLEMCTkPA"
+      },
+      "videos": [
+        {
+          "titulo": "Gaba",
+          "url": "https://www.youtube.com/watch?v=X4mlQSC0MfM"
+        },
+        {
+          "titulo": "Bom de garfo",
+          "url": "https://www.youtube.com/watch?v=xO4xuFOhYM0"
+        },
+        {
+          "titulo": "Ovos",
+          "url": "https://www.youtube.com/watch?v=mEfutuiHoUM&t=240s"
+        },
+        {
+          "titulo": "Erik",
+          "url": "https://www.youtube.com/watch?v=FMeMpVwN98I"
+        }, 
+        {
+          "titulo": "Mohammed",
+          "url": "https://www.youtube.com/watch?v=PKJEOJBsLjk"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Inglês",
+      "cor": "#000040",
+      "link_extra": {
+        "text": "SmallAdvantages",
+        "url": "https://www.youtube.com/channel/UCskEPRzGlsYHs_a5SJyCXag"
+      },
+      "videos": [
+        {
+          "titulo": "A PRONÚNCIA DE –ED: ESQUEÇA AS REGRAS",
+          "url": "https://www.youtube.com/watch?v=C4GtEIBCXq4&t=7s"
+        },
+        {
+          "titulo": "MAGIC E: A REGRA DO INGLÊS QUE FUNCIONA 95% DAS VEZES!",
+          "url": "https://www.youtube.com/watch?v=5gkZWcp_a08&list=PLFJshFlF-r5nasW2Wm1PSywi1XHsxZdoX&index=1"
+        },
+        {
+          "titulo": "A DUPLA CONSOANTE DE INGLÊS! | MAGIC E #2",
+          "url": "https://www.youtube.com/watch?v=oYbGsuMO4Dk&list=PLFJshFlF-r5nasW2Wm1PSywi1XHsxZdoX&index=2"
+        },
+        {
+          "titulo": "COMO DOMINAR O TRAVA-LÍNGUA MAIS DIFÍCIL DE INGLÊS | QUICK TIP #29",
+          "url": "https://www.youtube.com/watch?v=KeqdGMNZgrM"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Filmes",
+      "cor": "orange",
+      
+      "videos": [
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+        },
+        {
+          "titulo": "Gattaca",
+          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Feitiço do Tempo",
+          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+        }
+      ]
+    },
+
+    {
+      "titulo": "Animes",
+      "cor": "red",
+      "link_extra": {
+        "text": "Tauz Rap animes",
+        "url": "https://www.youtube.com/user/TauzOficial"
+      },
+      "videos": [
+        {
+          "titulo": "Rap do Luffy (One Piece)",
+          "url": "https://www.youtube.com/watch?v=abdtZgsZzYY"
+        },
+        {
+          "titulo": "Rap do Rock Lee (Naruto)",
+          "url": "https://www.youtube.com/watch?v=Gcp5oLGOqK8"
+        },
+        {
+          "titulo": "Rap do Zoro (One Piece)",
+          "url": "https://www.youtube.com/watch?v=NabGc3aYxno"
+        },
+        {
+          "titulo": "Rap do Gon (Hunter x Hunter)",
+          "url": "https://www.youtube.com/watch?v=jYq3WLqf1uI"
+        },
+        {
+          "titulo": "Rap do Eren (Attack on Titan)",
+          "url": "https://www.youtube.com/watch?v=QcknG8xuw5U"
+        },
+        {
+          "titulo": "Rap do Edward Elric (FullMetal Alchemist)",
+          "url": "https://www.youtube.com/watch?v=szyfDF_3lAg"
+        }
+      ]
+    }
+    
+  ]
+}
